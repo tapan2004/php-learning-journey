@@ -1,4 +1,3 @@
-
 <?php
 // for loop -> loops through a block of code a specified number of times
 for($i=0; $i<=10; $i++){
